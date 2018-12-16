@@ -6,7 +6,7 @@ import cucumber.api.java.en.Then;
 import static org.junit.Assert.*;
 import java.io.File;
 
-import App.Scripteer;
+import app.Scripteer;
 
 public class Stepdefs {
 
