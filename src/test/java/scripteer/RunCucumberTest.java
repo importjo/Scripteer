@@ -1,4 +1,4 @@
-package org.importjo;
+package scripteer;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
